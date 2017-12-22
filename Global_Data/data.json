@@ -1,0 +1,8 @@
+{
+  "baseURL": "http://automationpractice.com/index.php",
+  "LoginPageTitle":"Login - My Store",
+  "emailAddress":"pinkusheetal@yahoo.com",
+  "Password":"harsh18",
+  "MyAccountURL":"http://automationpractice.com/index.php?controller=my-account",
+  "OrderHistoryPageTitle":"Order history - My Store"
+}
